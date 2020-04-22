@@ -2,4 +2,4 @@ site_name: Nan0r Documentation
 site_description: Documentation about Nan0r personal infrastructure 
 theme: readthedocs
 nav:
-- Index: index.md
+- Home: 'index.md'
