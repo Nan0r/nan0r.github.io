@@ -1,5 +1,5 @@
-site_name: Nan0r docs
+site_name: Nan0r Documentation
 site_description: Documentation about Nan0r personal infrastructure 
 theme: readthedocs
-pages:
-- ['index.md', 'Index']
+nav:
+- Index: index.md
