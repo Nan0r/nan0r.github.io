@@ -1,0 +1,5 @@
+site_name: Nan0r docs
+site_description: Documentation about Nan0r personal infrastructure 
+theme: readthedocs
+pages:
+- ['index.md', 'Index']
